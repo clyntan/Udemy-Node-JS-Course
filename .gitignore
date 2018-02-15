@@ -1,0 +1,7 @@
+hello-world/
+node-web-server/node_modules/
+node-web-server/package-lock.json
+node-web-server/server.log
+notes-node/node_modules/
+weather-app/node_modules/
+weather-app/package-lock.json
