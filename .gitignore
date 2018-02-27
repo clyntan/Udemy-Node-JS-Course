@@ -5,3 +5,5 @@ node-web-server/server.log
 notes-node/node_modules/
 weather-app/node_modules/
 weather-app/package-lock.json
+node-tests/node_modules/
+node-tests/package-lock.json
